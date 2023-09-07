@@ -2,7 +2,7 @@
 - 🌍 I’m from Bangladesh...
 - 📖 I study Computer Science and Technology... 
 - 👩🏻‍💻 Currently work in Web  and application development
-         🤝🤝Thank You visit my profile🤝🤝
+-         🤝🤝Thank You visit my profile🤝🤝
 
 <!---
 Forhad755/Forhad755 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
