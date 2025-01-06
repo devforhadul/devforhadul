@@ -1,6 +1,6 @@
 ![logo](https://github.com/devforhadul/devforhadul/blob/23e046d7a3824c03f9fa9f099d8e47b964bcb905/forhad.jpg)
 <h1 align="center">Hi 👋, I'm Forhadul Islam</h1>
-<h3 align="center">A passionate App developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devforhadul&label=Profile%20views&color=0e75b6&style=flat" alt="devforhadul" /> </p>
 
