@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devforhadul&label=Profile%20views&color=0e75b6&style=flat" alt="devforhadul" /> </p>
 
-:hearts: &emsp;I Full-stack development (MongoDB, Express.js, React, Node.js) for robust web solutions.robust web solutions. <br/>
-:computer: &emsp;CMS (WordPress, WooCommerce etc.) to enhance functionality and user experience. <br/>
-:e-mail: &emsp;Reach me: forhadul75@gmail.com.<br/>
-⚡ &emsp; Performance-Driven Development: Optimized, fast-loading websites with responsive designs.
+:hearts:&emsp;I Full-stack development (MongoDB, Express.js, React, Node.js) for robust web solutions.robust web solutions. <br/>
+:computer:&emsp;CMS (WordPress, WooCommerce etc.) to enhance functionality and user experience. <br/>
+:e-mail:&emsp;Reach me: forhadul75@gmail.com.<br/>
+⚡&emsp;Performance-Driven Development: Optimized, fast-loading websites with responsive designs.
 
 :coffee: &emsp;Connect with me!
 
