@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/devforhadul/devforhadul/refs/heads/main/github_cover.png)
 <h1 align="center">Hi 👋, I'm Forhadul Islam</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<p >I’m a passionate MERN stack web developer with a strong foundation in building dynamic, scalable web applications. My expertise lies in leveraging modern technologies to create seamless digital experiences.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devforhadul&label=Profile%20views&color=0e75b6&style=flat" alt="devforhadul" /> </p>
 
