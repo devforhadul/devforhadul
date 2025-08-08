@@ -1,4 +1,4 @@
-![logo](https://github.com/devforhadul/devforhadul/blob/23e046d7a3824c03f9fa9f099d8e47b964bcb905/github_cover.png)
+![logo](https://raw.githubusercontent.com/devforhadul/devforhadul/refs/heads/main/github_cover.png)
 <h1 align="center">Hi 👋, I'm Forhadul Islam</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
