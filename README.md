@@ -20,6 +20,6 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devforhadul)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mir-hussain)](https://git.io/streak-stats)
 
 
